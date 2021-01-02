@@ -1,5 +1,5 @@
 ## Deskripsi Singkat
-### Ini adalah jawaban dari tes masuk dumbways
+Ini adalah jawaban dari tes masuk dumbways
 ## Running File
 ### File dengan nomer 1 dan 2 bisa di running dengan compiler javascript
 ### File dengan nomer 3 bisa di running dengan browser karena hanya html, atau menggunakan live server dari vscode
